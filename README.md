@@ -2,7 +2,7 @@
 
 Procedimiento de Calcular el Sueldo Semanal.
 
-** Contexto **
+**Contexto**
 
 Para este ejercicio se consideró ingresar horas trabajadas por semana y pago por hora.
 
